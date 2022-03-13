@@ -10,7 +10,7 @@
 
 //   console.log(digital_root(1992));
 
-  function digital_root(n) {
+function digital_root(n) {
     let arr = n.toString().split('');
     let a = 0;
     for (let i = 0; i < arr.length; i++) {
@@ -31,7 +31,7 @@
             for (let i = 0; i < bArr.length; i++) {
                 c += Number(bArr[i])
             }
-    
+
             return c
 
         } else {
@@ -40,6 +40,6 @@
     } else {
         return a
     }
-  }
+}
 
-  console.log(digital_root(199992));
+console.log(digital_root(199992));

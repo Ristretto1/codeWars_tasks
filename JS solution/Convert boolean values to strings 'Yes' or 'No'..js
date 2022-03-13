@@ -1,7 +1,7 @@
-function boolToWord( bool ){
+function boolToWord(bool) {
     if (bool) {
-      return 'Yes'
-    }else {
-      return 'No'
+        return 'Yes'
+    } else {
+        return 'No'
     }
-  }
+}

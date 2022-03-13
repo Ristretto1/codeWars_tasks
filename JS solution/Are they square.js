@@ -1,5 +1,5 @@
 var isSquare = function (arr) {
-    if (arr.length){
+    if (arr.length) {
         for (let i = 0; i < arr.length; i++) {
             if (!(Number.isInteger(Math.sqrt(arr[i])))) {
                 return false
