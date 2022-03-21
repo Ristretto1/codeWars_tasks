@@ -1,15 +1,3 @@
-// function digital_root(n) {
-//     let arr = n.toString().split('');
-//     let sum = 0;
-//     for (let i = 0; i < arr.length; i++) {
-//         sum += Number(arr[i])
-//     }
-
-//     return sum
-//   }
-
-//   console.log(digital_root(1992));
-
 function digital_root(n) {
     let arr = n.toString().split('');
     let a = 0;
@@ -42,4 +30,3 @@ function digital_root(n) {
     }
 }
 
-console.log(digital_root(199992));
