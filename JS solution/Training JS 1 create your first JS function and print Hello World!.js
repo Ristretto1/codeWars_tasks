@@ -1,4 +1,4 @@
 function helloWorld() {
-    const someWords = "Hello World!"
-    console.log(someWords)
+    const str = "Hello World!"
+    console.log(str)
 }
