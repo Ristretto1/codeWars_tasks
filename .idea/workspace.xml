@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc80118f-7e49-4db1-9b48-99aa809edea4" name="Default Changelist" comment="" />
+    <list default="true" id="cc80118f-7e49-4db1-9b48-99aa809edea4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JS solution/Name on billboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS solution/Name on billboard.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,7 @@
       <workItem from="1652088545846" duration="1313000" />
       <workItem from="1652782246328" duration="1212000" />
       <workItem from="1653568804485" duration="1890000" />
+      <workItem from="1653973457583" duration="285000" />
     </task>
     <servers />
   </component>
