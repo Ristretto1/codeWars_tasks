@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc80118f-7e49-4db1-9b48-99aa809edea4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JS solution/Find Multiples of a Number.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS solution/Find Multiples of a Number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,8 @@
       <workItem from="1654515572280" duration="109000" />
       <workItem from="1654515710375" duration="1104000" />
       <workItem from="1655006346267" duration="1058000" />
-      <workItem from="1655438128950" duration="2750000" />
+      <workItem from="1655438128950" duration="3355000" />
+      <workItem from="1655962984150" duration="78000" />
     </task>
     <servers />
   </component>
